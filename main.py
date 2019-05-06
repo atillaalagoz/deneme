@@ -19,4 +19,4 @@ def topla(x, y):
 
 def f2():
     print("12")
-    print("122")
+    print("12 2")
