@@ -1,5 +1,5 @@
 def topla(x, y):
     return x + y
 
-def f():
-    pass
+def f2():
+    print("1")
