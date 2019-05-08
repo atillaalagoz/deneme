@@ -57,6 +57,13 @@ www.github.com   Geçerli url'lere doğrudan link veriliyor.
 
 Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme işleçlerini destekliyor.
 
+### Resim Ekleme:
+
+[Fotoğraf yazısı burada](https://avatars0.githubusercontent.com/u/1525981?s=200&v=4)
+
+Yukarıdaki parantez içine resimin yolunu yazdık.
+
+
 ### Sırasız(Başa gelen - ve boşluk ile), sıralı(Başa gelen sayı, sonrasında nokta ve sonrasında boşluk ile) ve içiçe listeler oluşturabilirsiniz:
 #### Sırasız Liste
 - Sırasız eleman 1
