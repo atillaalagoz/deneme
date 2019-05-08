@@ -44,4 +44,4 @@ Yukarıda köşeli parantez ve link için verilen normal parantez bitişik olmal
 
 Normal link: www.github.com   Geçerli url'lere doğrudan link veriliyor.
 
-[Relative link veriyorum:](docs/CONTRIBUTING.md)
+[Relative link veriyorum:](main.py)
