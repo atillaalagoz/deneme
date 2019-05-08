@@ -47,6 +47,7 @@ Yukarıda köşeli parantez ve link için verilen normal parantez bitişik olmal
 Normal link: www.github.com   Geçerli url'lere doğrudan link veriliyor.
 
 [Relative link veriyorum:](main.py) -> Readme'nin içinde bulunduğu yolun sonuna, parantez içinde yazılan linki ekliyor.
+
 Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme işleçlerini destekliyor.
 
 ### Sırasız(Başa gelen - ve boşluk ile), sıralı(Başa gelen sayı, sonrasında nokta ve sonrasında boşluk ile) ve içiçe listeler oluşturabilirsiniz:
@@ -68,6 +69,7 @@ Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme 
       - Üçüncü Seviye 2. Eleman
     - İkinci Seviye 3. Eleman
 2. Birinci Seviye 2. Eleman
+
 Yukarıdaki girintileme işlemlerinde, bir elemanı üsttekinin alt seviyesine idirmek iöin girintileme kullanıldığına dikkat edin!
 
 ### Görev Listeleri Oluşturma - [ ] ile (Köşeli parantez içinde 1 adet boşluk karakteri var.)
@@ -78,6 +80,16 @@ Yukarıdaki girintileme işlemlerinde, bir elemanı üsttekinin alt seviyesine i
 
 ### Emoji Kullanmak -   :emojikodu: (İki ikinokta arasına emoji kodu yazılarak yapılır.)
 Mesela beğenme emojisi için :+1:, kalp emojisi için :heart: yazabilirsiniz.
+
+### Alt Satıra Geçmek ve Paragraf Oluşturmak:
+Özellikle işaretlenmemiş metinlerin bir alt satıra geçmesini sağlamak için bizim burada normal olarak bir alt satıra geçmemiz
+yeterli olmuyor, onun yerine arada bir satır boşluk oluşturmamız lazım.
+Burada 
+yeni satıra geçilmedi.
+
+Burada
+
+yeni satıra geçildi.
 
 ### Kaçış Karakteri:  \
 Metin işaretleme işleçlerinin önüne  \  koyarak o işleçin çalışmasını engelleyerek sadece karakter olarak algılanmasını sağlayabilirsiniz.
