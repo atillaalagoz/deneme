@@ -44,6 +44,7 @@ print(2)
 
 ### Bağlantı Verme:
 Google için [buraya](https://www.google.com) tıklayın:
+
 Yukarıda köşeli parantez ve link için verilen normal parantez bitişik olmalı.
 
 
@@ -52,7 +53,7 @@ Yukarıda köşeli parantez ve link için verilen normal parantez bitişik olmal
 www.github.com   Geçerli url'lere doğrudan link veriliyor.
 
 ### Relative Bağlantı Verme:
-[Relative link veriyorum:](main.py) -> Readme'nin içinde bulunduğu yolun sonuna, parantez içinde yazılan linki ekliyor.
+[Relative link veriyorum:](main.py) -> İçinde bulunulan yolun sonuna, parantez içinde yazılan linki ekliyor.
 
 Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme işleçlerini destekliyor.
 
