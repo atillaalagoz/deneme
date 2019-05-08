@@ -1,3 +1,5 @@
+# GİTHUB METİN FORMATLAMA İLE İLGİLİ BİLGİLER
+
 # En Büyük Başlık
 ## İkinci Büyük Başlık
 ### Üçüncü Büyük Başlık
