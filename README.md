@@ -84,6 +84,7 @@ Mesela beğenme emojisi için :+1:, kalp emojisi için :heart: yazabilirsiniz.
 ### Alt Satıra Geçmek ve Paragraf Oluşturmak:
 Özellikle işaretlenmemiş metinlerin bir alt satıra geçmesini sağlamak için bizim burada normal olarak bir alt satıra geçmemiz
 yeterli olmuyor, onun yerine arada bir satır boşluk oluşturmamız lazım.
+
 Burada 
 yeni satıra geçilmedi.
 
