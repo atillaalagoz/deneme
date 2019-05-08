@@ -1,5 +1,8 @@
 # GİTHUB METİN FORMATLAMA İLE İLGİLİ BİLGİLER
 
+
+### Başlık Kullanımı
+
 # En Büyük Başlık
 ## İkinci Büyük Başlık
 ### Üçüncü Büyük Başlık
@@ -23,29 +26,32 @@ Yukarıdaki başlıkların büyüklüğü, önündeki diyez sayısı ile ters or
 
 ~~üstü çizili~~
 
-
+### Alıntı:
 Ahmet dedi ki:
 >Bu bir alıntıdır.
 
 
-
+### Kod Alıntısı:
 Haydi kod alıntısı yapalım:
  `print("hello world")`
 
 
- Blok alıntı:
+### Blok alıntı:
 ```
 print(1)
 print(2)
 ```
 
-Bağlantı verme:
+### Bağlantı Verme:
 Google için [buraya](https://www.google.com) tıklayın:
 Yukarıda köşeli parantez ve link için verilen normal parantez bitişik olmalı.
 
 
-Normal link: www.github.com   Geçerli url'lere doğrudan link veriliyor.
+### Normal Url ile Bağlantı:
 
+www.github.com   Geçerli url'lere doğrudan link veriliyor.
+
+### Relative Bağlantı Verme:
 [Relative link veriyorum:](main.py) -> Readme'nin içinde bulunduğu yolun sonuna, parantez içinde yazılan linki ekliyor.
 
 Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme işleçlerini destekliyor.
