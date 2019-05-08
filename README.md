@@ -44,4 +44,5 @@ Yukarıda köşeli parantez ve link için verilen normal parantez bitişik olmal
 
 Normal link: www.github.com   Geçerli url'lere doğrudan link veriliyor.
 
-[Relative link veriyorum:](main.py)
+[Relative link veriyorum:](main.py) -> Readme'nin içinde bulunduğu yolun sonuna, parantez içinde yazılan linki ekliyor.
+Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme işleçlerini destekliyor.
