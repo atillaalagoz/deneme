@@ -106,3 +106,4 @@ Metin işaretleme işleçlerinin önüne  \  koyarak o işleçin çalışmasın�
 
 \*italik\* engellendi, * işareti göründü.
  
+ 
