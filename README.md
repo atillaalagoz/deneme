@@ -75,6 +75,12 @@ Yukarıdaki girintileme işlemlerinde, bir elemanı üsttekinin alt seviyesine i
 
 
 ### Emoji Kullanmak -   :emojikodu: (İki ikinokta arasına emoji kodu yazılarak yapılır.)
-Mesela beğenme emojisi için \:+1:, kalp emojisi için :heart: yazabilirsiniz.
+Mesela beğenme emojisi için :+1:, kalp emojisi için :heart: yazabilirsiniz.
 
+### Kaçış Karakteri:  \
+Metin işaretleme işleçlerinin önüne  \  koyarak o işleçin çalışmasını engelleyerek sadece karakter olarak algılanmasını sağlayabilirsiniz.
 
+*italik*
+
+\*italik\* engellendi, * işareti göründü.
+ 
