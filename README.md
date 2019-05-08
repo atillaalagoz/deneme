@@ -46,3 +46,32 @@ Normal link: www.github.com   Geçerli url'lere doğrudan link veriliyor.
 
 [Relative link veriyorum:](main.py) -> Readme'nin içinde bulunduğu yolun sonuna, parantez içinde yazılan linki ekliyor.
 Yukarıdaki relative link verme özelliği, ./ ve ../. gibi relative link verme işleçlerini destekliyor.
+
+### Sırasız(Başa gelen - ve boşluk ile), sıralı(Başa gelen sayı, sonrasında nokta ve sonrasında boşluk ile) ve içiçe listeler oluşturabilirsiniz:
+#### Sırasız Liste
+- Sırasız eleman 1
+- Sırasız eleman 2
+- Sırasız eleman 3
+
+#### Sıralı Liste
+1. Sıralı eleman 1
+2. Sıralı eleman 2
+3. Sıralı eleman 3
+
+#### İçiçe Liste:
+1. Birinci Seviye 1. Eleman
+    - İkinci Seviye 1. Eleman
+    - İkinci Seviye 2. Eleman 
+      - Üçüncü Seviye 1. Eleman
+      - Üçüncü Seviye 2. Eleman
+    - İkinci Seviye 3. Eleman
+2. Birinci Seviye 2. Eleman
+Yukarıdaki girintileme işlemlerinde, bir elemanı üsttekinin alt seviyesine idirmek iöin girintileme kullanıldığına dikkat edin!
+
+### Görev Listeleri Oluşturma - [ ] ile (Köşeli parantez içinde 1 adet boşluk karakteri var.)
+- [x] Birinci Görev - Tamamlanan görevi işaretlemek için köşeli parantezler arasına x koyuyoruz.
+- [ ] İkinci Görev
+- [ ] Üçüncü Görev
+
+
+
