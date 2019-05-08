@@ -1,5 +1,4 @@
-# GİTHUB METİN FORMATLAMA İLE İLGİLİ BİLGİLER
-
+# GİTHUB METİN İŞARETLEME(MARKDOWN)
 
 ### Başlık Kullanımı
 
