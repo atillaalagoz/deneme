@@ -73,5 +73,7 @@ Yukarıdaki girintileme işlemlerinde, bir elemanı üsttekinin alt seviyesine i
 - [ ] İkinci Görev
 - [ ] Üçüncü Görev
 
+### Bir şahsa veya takıma mention atmak için @ kullanılır.
+@atillaalagoz -> Bu isimdeki kullanıcıya mention atmış oldum.
 
 
