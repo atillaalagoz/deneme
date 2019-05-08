@@ -73,7 +73,8 @@ Yukarıdaki girintileme işlemlerinde, bir elemanı üsttekinin alt seviyesine i
 - [ ] İkinci Görev
 - [ ] Üçüncü Görev
 
-### Bir şahsa veya takıma mention atmak için @ kullanılır.
-@atillaalagoz -> Bu isimdeki kullanıcıya mention atmış oldum.
+
+### Emoji Kullanmak -   :emojikodu: (İki ikinokta arasına emoji kodu yazılarak yapılır.)
+Mesela beğenme emojisi için \:+1:, kalp emojisi için :heart: yazabilirsiniz.
 
 
