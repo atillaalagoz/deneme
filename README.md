@@ -113,28 +113,4 @@ Metin işaretleme işleçlerinin önüne  \  koyarak o işleçin çalışmasın�
 *italik*
 
 \*italik\* engellendi, * işareti göründü.
- 
- 
 
-
-
-
-
-def get_file_objects(folder_path, file_names):
-    for file_name in file_names:
-        file_path = folder_path + sep+ file_name
-        with open(file_path) as f:
-            yield f
-
-def read_file_lines(file_objects):
-    for file_object in file_objects:
-        for line in file_object:
-            yield line
-
-def read_char(lines):
-    for line in lines:
-        for char in line:
-            yield char
-
-
-Çok iyi böyle 
