@@ -116,7 +116,8 @@ Metin işaretleme işleçlerinin önüne  \  koyarak o işleçin çalışmasın�
 
 
 
-'''
+```
+```
 def get_file_objects(folder_path, file_names):
     for file_name in file_names:
         file_path = folder_path + sep+ file_name
@@ -132,7 +133,6 @@ def read_char(lines):
     for line in lines:
         for char in line:
             yield char
-
+```
 
 Çok iyi böyle 
-'''
